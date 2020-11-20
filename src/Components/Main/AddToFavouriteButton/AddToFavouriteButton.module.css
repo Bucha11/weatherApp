@@ -1,0 +1,15 @@
+.buttonContainer {grid-column-start:3}
+
+.buttonContainer button{
+  width:30px;
+height:30px;
+border-radius: 50px;
+position: absolute;
+outline:none;
+border:1px solid  rgb(109, 104, 104);
+background-color:white;
+color: rgb(109, 104, 104);
+font-size: 24px;
+font-weight:bold;
+cursor: pointer;
+z-index: 11000;}

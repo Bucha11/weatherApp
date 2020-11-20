@@ -1,0 +1,14 @@
+.nav{display:flex;
+justify-content: space-between;
+padding: 15px;
+}
+
+.nav a {
+  text-decoration: none;
+    color: rgb(70, 67, 67);
+}
+
+.active{
+  color:rgb(50, 184, 184);
+  font-weight: bold;
+}

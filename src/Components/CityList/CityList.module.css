@@ -1,0 +1,20 @@
+.cityList{
+  margin-left:40px;
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+  grid-gap:16px;
+}
+
+
+.cityItem{
+  border: 1px solid  rgb(109, 104, 104);
+  padding: 40px;
+  cursor:pointer;
+  position: relative;
+  z-index: 1000;
+  color:rgb(109, 104, 104);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h3 {color:rgb(109, 104, 104) ;}

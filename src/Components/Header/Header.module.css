@@ -1,0 +1,8 @@
+.header{
+  display: grid;
+  grid-template-columns:1fr 2fr 1fr;
+  border-bottom:1px solid rgb(139, 134, 134);
+  margin-bottom: 40px;
+
+}
+
